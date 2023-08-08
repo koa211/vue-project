@@ -1,19 +1,20 @@
-# vue-project
+# Vue3 web project
+This is a project that I developed myself during the time that I was interning as a full stack developer in FPT Software Vietnam. 
+The aim was to create a web server that stored user login and allowed access to a book library and calender system
 
-This template should help get you started developing with Vue 3 in Vite.
+## Getting started
 
-## Recommended IDE Setup
+This template should help you get a local copy up and running
+
+### Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+### Project Setup
 
 ```sh
 npm install
+npm install moment --save
 ```
 
 ### Compile and Hot-Reload for Development
@@ -28,8 +29,11 @@ npm run dev
 npm run build
 ```
 
-### Run Unit Tests with [Vitest](https://vitest.dev/)
+##Installation
 
-```sh
-npm run test:unit
-```
+1. Clone the repo
+2. Install the npm packages
+
+## Contact
+
+Khoa Le - legiakhoa0@gmail.com
